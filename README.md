@@ -2,7 +2,7 @@
 
 - Sou uma pessoa comunicativa, tenho um bom trabalho em equipe e não tenho preguiça em aprender novas linguagens e tecnologias 
 - 🌱 Estudando ReactJS
-- 📫 Contate-me no email: gustavolibrelon@hotmail.com.br
+- 📫 Contate-me no email: contatoglibrelon@com
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
