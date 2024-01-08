@@ -1,7 +1,6 @@
 ### Olá eu sou Gustavo Librelon 👋
 
 - Sou uma pessoa comunicativa, tenho um bom trabalho em equipe e não tenho preguiça em aprender novas linguagens e tecnologias 
-- 🌱 Estudando ReactJS
 - 📫 Contate-me no email: contatoglibrelon@gmail.com
 
   <div style="display: inline_block"><br>
