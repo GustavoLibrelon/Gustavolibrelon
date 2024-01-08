@@ -1,6 +1,6 @@
 ### Olá eu sou Gustavo Librelon 👋
 
-- Sou uma pessoa comunicativa, tenho um bom trabalho em equipe e não tenho preguiça em aprender novas linguagens e tecnologias 
+- Sou uma pessoa apaixonada por trabalhar em equipe, reconhecendo o valor da colaboração e do intercâmbio de ideias para alcançar objetivos comuns. 
 - 📫 Contate-me no email: contatoglibrelon@gmail.com
 
   <div style="display: inline_block"><br>
